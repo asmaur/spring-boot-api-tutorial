@@ -10,7 +10,7 @@ The list of tools required to build and run the project:
 * Open JDK 17
 * Apache Maven 3.8
 
-## Steps to Setup
+## Steps to Set up
 
 **1. Clone the application**
 
